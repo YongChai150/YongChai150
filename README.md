@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YongChai150
 - 👀 I’m interested in Software Developing activities
-- 🌱 I’m currently learning Django Framework and plugin development in Google Extension plugin
+- 🌱 I’m currently learning Django Framework and plugin development in Google Chrome Extension plugin
 - 💞️ I’m looking to collaborate on more software project
 - 📫 Reach me via my email yongchai97@gmail.com
 
